@@ -16,5 +16,18 @@
   "bugs": {
     "url": "https://github.com/plin0168/maps-project/issues"
   },
-  "homepage": "https://github.com/plin0168/maps-project#readme"
+  "homepage": "https://github.com/plin0168/maps-project#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "request": "^2.78.0"
+  }
 }
