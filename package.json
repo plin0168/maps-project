@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/plin0168/maps-project#readme",
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.2",
     "bower": "^1.7.9",
